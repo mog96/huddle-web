@@ -13,4 +13,4 @@ Meet huddle.
 
 The application that provides strangers  the opportunity to get together (huddle) in public spaces to engage in spontaneous communal activities.
 
-![https://github.com/mog96/huddle-web/blob/master/huddle-walkthrough-map-search.gif]
+![Walkthrough](https://github.com/mog96/huddle-web/blob/master/huddle-walkthrough-map-search.gif)
