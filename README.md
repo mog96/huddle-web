@@ -12,3 +12,5 @@ It's time to forge real human connections and rebuild real-world community.
 Meet huddle.
 
 The application that provides strangers  the opportunity to get together (huddle) in public spaces to engage in spontaneous communal activities.
+
+![https://github.com/mog96/huddle-web/blob/master/huddle-walkthrough-map-search.gif]
